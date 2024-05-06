@@ -28,6 +28,10 @@
   .green {
     background-color: #00ff00;
   }
+
+  .blue {
+    background-color: blue;
+  }
   
   .active {
     box-shadow: 0 0 20px 5px rgba(255, 255, 255, 0.7);
